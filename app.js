@@ -1,5 +1,5 @@
 let listaDeNumerosAleatorios = []
-let valorMaximo = 50
+let valorMaximo = 500
 let numeroAleatorio = gerarNumeroAleatorio();
 let tentativas = 1;
 
